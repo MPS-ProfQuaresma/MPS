@@ -1,0 +1,180 @@
+#menu {
+    background-color: rgb(132, 4, 4);
+    text-align: center;
+    margin: none;
+    padding: none;
+    height: 62px;
+}
+
+.Title {
+
+    float: left;
+    width: auto;
+    margin: 10px 10px 0 20px;
+    background-color: rgb(132, 4, 4);
+}
+
+#menu li {
+    background-color: rgb(132, 4, 4);
+    padding-left: 22px;
+    font-size: 25px;
+    border: 1px solid black;
+
+}
+
+li p {
+    color: black;
+    padding-left: 22px;
+    font-size: 25px;
+
+}
+
+.menu {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    width: 100%;
+    background-color: rgb(132, 4, 4);
+}
+
+ul li {
+    float: right;
+}
+
+ul a {
+    display: block;
+    padding: 0 2em;
+    line-height: 2.2em;
+    text-decoration: none;
+    color: #0c010c;
+
+
+
+}
+
+.topics {
+    width: 100%;
+}
+
+.topics ul li {
+    color: red;
+    font-size: 25px;
+}
+
+.imgMenu {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-info {
+    justify-content: end;
+}
+
+.footer-social h3,
+.footer-info h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer-social ul {
+    list-style: none;
+}
+
+.footer-social ul li {
+    margin-bottom: 10px;
+}
+
+.footer-social a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-social a:hover {
+    color: red;
+}
+
+.footer-info p {
+    font-size: 16px;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+}
+
+.img{
+    display: flex;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    font-size: 14px;
+}
+
+.footer-container {
+    display: flex;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.footer-info {
+    justify-content: end;
+}
+
+.footer-social h3,
+.footer-info h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.footer-social ul {
+    list-style: none;
+}
+
+.footer-social ul li {
+    margin-bottom: 10px;
+}
+
+.footer-social a {
+    color: #fff;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+.footer-social a:hover {
+    color: red;
+}
+
+.footer-info p {
+    font-size: 16px;
+}
+
+.footer-bottom {
+    text-align: center;
+    margin-top: 20px;
+    border-top: 1px solid #444;
+    padding-top: 10px;
+}
